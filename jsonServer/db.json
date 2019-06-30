@@ -1,0 +1,16 @@
+{
+  "folders": [
+    { "id": 1, "title": "folder1", "collaborations": [1, 2, 3] },
+    { "id": 2, "title": "json-server2", "author": "typicode2" }
+  ],
+  "posts": [
+    { "id": 1, "title": "json-server1", "author": "typicode1" },
+    { "id": 2, "title": "json-server2", "author": "typicode2" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment1", "postId": 1 },
+    { "id": 2, "body": "some comment2", "postId": 2 },
+    { "id": 3, "body": "some comment3", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
